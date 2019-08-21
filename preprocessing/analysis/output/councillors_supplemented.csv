@@ -1,0 +1,247 @@
+id,first_name,last_name,age_group,gender,urban_rural,marital_status,education,religion,party,canton
+4154,Jean-Luc,Addor,50-59,m,urban,married,tertiary,protestant,SVP,VS
+3867,Andreas,Aebi,60-69,m,rural,married,tertiary,protestant,SVP,BE
+4090,Céline,Amaudruz,40-49,f,big_city,single,tertiary,protestant,SVP,GE
+4180,Thomas,Ammann,50-59,m,rural,married,tertiary,catholic,CVP,SG
+1135,Adrian,Amstutz,60-69,m,periurban,married,tertiary,protestant,SVP,BE
+4155,Beat,Arnold,40-49,m,urban,married,tertiary,catholic,SVP,UR
+305,Didier,Berberat,60-69,m,urban,married,tertiary,catholic,SP,NE
+4209,Hans-Ulrich,Bigler,60-69,m,urban,married,tertiary,protestant,FDP-Liberale,ZH
+4030,Prisca,Birrer-Heimo,60-69,f,urban,married,tertiary,catholic,SP,LU
+3871,Pirmin,Bischof,60-69,m,urban,married,tertiary,catholic,CVP,SO
+3831,Ivo,Bischofberger,60-69,m,rural,married,tertiary,catholic,CVP,AI
+3872,Jacques,Bourgeois,60-69,m,periurban,married,tertiary,protestant,FDP-Liberale,FR
+4067,Heinz,Brand,60-69,m,periurban,married,tertiary,protestant,SVP,GR
+4230,Philipp Matthias,Bregy,40-49,m,urban,married,tertiary,catholic,CVPO,VS
+823,Pascale,Bruderer Wyss,40-49,f,urban,married,tertiary,protestant,SP,AG
+4215,Hansjörg,Brunner,50-59,m,urban,married,tertiary,protestant,FDP-Liberale,TG
+4156,Michaël,Buffat,30-39,m,rural,married,tertiary,protestant,SVP,VD
+4157,Manfred,Bühler,40-49,m,rural,single,tertiary,protestant,SVP,BE
+4101,Christine,Bulliard-Marbach,50-59,f,rural,married,unknown,protestant,CVP,FR
+4158,Thomas,Burgherr,50-59,m,rural,married,secondary,protestant,SVP,AG
+4189,Thierry,Burkart,40-49,m,urban,single,tertiary,catholic,FDP-Liberale,AG
+4200,Duri,Campell,50-59,m,rural,married,secondary,protestant,BDP,GR
+4070,Martin,Candinas,30-39,m,urban,married,tertiary,catholic,CVP,GR
+4217,Rocco,Cattaneo,60-69,m,periurban,married,tertiary,catholic,FDP-Liberale,TI
+4159,Marco,Chiesa,40-49,m,big_city,married,tertiary,catholic,SVP,TI
+1124,Dominique,de Buman,60-69,m,urban,single,tertiary,catholic,CVP,FR
+4051,Thomas,de Courten,50-59,m,rural,divorced,tertiary,catholic,SVP,BL
+4079,Fathi,Derder,40-49,m,urban,divorced,unknown,undenominational,FDP-Liberale,VD
+4160,Marcel,Dettling,30-39,m,rural,married,secondary,catholic,SVP,SZ
+4151,Josef,Dittli,60-69,m,urban,married,secondary,catholic,FDP-Liberale,UR
+4190,Marcel,Dobler,30-39,m,urban,married,tertiary,undenominational,FDP-Liberale,SG
+4068,Roland,Eberle,60-69,m,urban,married,tertiary,catholic,SVP,TG
+4064,Joachim,Eder,60-69,m,urban,married,tertiary,catholic,FDP-Liberale,ZG
+4212,Thomas,Egger,50-59,m,urban,single,tertiary,catholic,CSPO,VS
+3875,Corina,Eichenberger-Walther,60-69,f,periurban,widowed,tertiary,protestant,FDP-Liberale,AG
+4055,Stefan,Engler,50-59,m,urban,married,tertiary,catholic,CVP,GR
+4206,Erich,Ettlin,50-59,m,rural,married,tertiary,catholic,CVP,OW
+74,Christoph,Eymann,60-69,m,big_city,married,tertiary,protestant,LDP,BS
+4056,Daniel,Fässler,50-59,m,periurban,married,tertiary,catholic,CVP,AI
+4059,Beat,Flach,50-59,m,periurban,married,tertiary,protestant,glp,AG
+1122,Kurt,Fluri,60-69,m,urban,married,tertiary,undenominational,FDP-Liberale,SO
+321,Peter,Föhn,60-69,m,periurban,married,secondary,catholic,SVP,SZ
+4042,Sebastian,Frehner,40-49,m,big_city,married,tertiary,protestant,SVP,BS
+4074,Pierre-Alain,Fridez,60-69,m,urban,married,tertiary,catholic,SP,JU
+3880,Andrea Martina,Geissbühler,40-49,f,urban,married,secondary,protestant,SVP,BE
+825,Hannes,Germann,60-69,m,periurban,married,secondary,protestant,SVP,SH
+3883,Alice,Glauser-Zufferey,60-69,f,rural,married,secondary,catholic,SVP,VD
+4181,Andrea,Gmür-Schönenberger,50-59,f,big_city,married,tertiary,catholic,CVP,LU
+4137,Roger,Golay,50-59,m,urban,married,tertiary,protestant,MCG,GE
+1295,Edith,Graf-Litscher,50-59,f,urban,married,secondary,protestant,SP,TG
+4083,Jürg,Grossen,40-49,m,periurban,married,secondary,protestant,glp,BE
+3886,Hans,Grunder,60-69,m,rural,married,tertiary,protestant,BDP,BE
+4087,Jean-Paul,Gschwind,60-69,m,rural,married,tertiary,catholic,CVP,JU
+4214,Niklaus-Samuel,Gugger,40-49,m,big_city,married,tertiary,protestant,EVP,ZH
+4082,Bernhard,Guhl,40-49,m,periurban,married,tertiary,protestant,BDP,AG
+4216,Diana,Gutjahr,30-39,f,urban,married,tertiary,protestant,SVP,TG
+4121,Barbara,Gysi,50-59,f,urban,single,tertiary,undenominational,SP,SG
+4076,Philipp,Hadorn,50-59,m,urban,married,tertiary,other_religion,SP,SO
+4061,Thomas,Hardegger,60-69,m,periurban,single,tertiary,catholic,SP,ZH
+4103,Markus,Hausammann,50-59,m,rural,married,tertiary,protestant,SVP,TG
+4153,Peter,Hegglin,50-59,m,periurban,married,tertiary,catholic,CVP,ZG
+1156,Bea,Heim,above 70,f,urban,married,tertiary,catholic,SP,SO
+4129,Verena,Herzog,60-69,f,urban,married,tertiary,protestant,SVP,TG
+4094,Lorenz,Hess,50-59,m,urban,married,tertiary,protestant,BDP,BE
+3888,Hugues,Hiltpold,50-59,m,urban,married,tertiary,protestant,FDP-Liberale,GE
+1071,Ruth,Humbel,60-69,f,periurban,married,tertiary,catholic,CVP,AG
+3890,Thomas,Hurter,50-59,m,urban,married,tertiary,protestant,SVP,SH
+4164,Christian,Imark,30-39,m,periurban,married,secondary,catholic,SVP,SO
+477,Claude,Janiak,above 70,m,urban,partnership,tertiary,undenominational,SP,BL
+4208,Matthias Samuel,Jauslin,50-59,m,urban,married,tertiary,protestant,FDP-Liberale,AG
+4218,Irène,Kälin,30-39,f,periurban,single,tertiary,undenominational,GPS,AG
+4165,Barbara,Keller-Inhelder,50-59,f,urban,married,tertiary,protestant,SVP,SG
+1147,Margret,Kiener Nellen,60-69,f,urban,married,tertiary,protestant,SP,BE
+4114,Hansjörg,Knecht,50-59,m,rural,married,tertiary,catholic,SVP,AG
+1162,Alex,Kuprecht,60-69,m,periurban,married,tertiary,catholic,SVP,SZ
+4225,Philipp,Kutter,40-49,m,urban,married,tertiary,catholic,CVP,ZH
+4008,Martin,Landolt,50-59,m,urban,divorced,tertiary,catholic,BDP,GL
+1150,Christian,Levrat,40-49,m,urban,married,tertiary,catholic,SP,FR
+4118,Christian,Lohr,50-59,m,urban,single,tertiary,protestant,CVP,TG
+3918,Werner,Luginbühl,60-69,m,periurban,married,unknown,protestant,BDP,BE
+4018,Jacques-André,Maire,60-69,m,rural,married,tertiary,protestant,SP,NE
+4183,Géraldine,Marchand-Balet,40-49,f,urban,married,tertiary,catholic,CVP,VS
+1139,Christa,Markwalder,40-49,f,urban,divorced,tertiary,catholic,FDP-Liberale,BE
+341,Liliane,Maury Pasquier,60-69,f,big_city,married,tertiary,catholic,SP,GE
+4198,Mattea,Meyer,30-39,f,big_city,single,tertiary,undenominational,SP,ZH
+4112,Thomas,Minder,50-59,m,urban,single,tertiary,protestant,-,SH
+3897,Tiana Angelina,Moser,40-49,f,big_city,married,tertiary,protestant,glp,ZH
+1137,Walter,Müller,above 70,m,rural,married,secondary,protestant,FDP-Liberale,SG
+1141,Philipp,Müller,60-69,m,rural,married,secondary,undenominational,FDP-Liberale,AG
+1345,Thomas,Müller,60-69,m,urban,married,tertiary,catholic,SVP,SG
+4097,Leo,Müller,60-69,m,periurban,married,tertiary,catholic,CVP,LU
+4207,Damian,Müller,30-39,m,periurban,single,secondary,catholic,FDP-Liberale,LU
+4063,Stefan,Müller-Altermatt,40-49,m,rural,married,tertiary,catholic,CVP,SO
+4134,Martina,Munz,60-69,f,rural,married,tertiary,protestant,SP,SH
+1111,Felix,Müri,60-69,m,urban,married,secondary,catholic,SVP,LU
+4193,Philippe,Nantermod,30-39,m,urban,married,tertiary,catholic,FDP-Liberale,VS
+1279,Roger,Nordmann,40-49,m,big_city,married,tertiary,undenominational,SP,VD
+3899,Eric,Nussbaumer,50-59,m,urban,married,tertiary,other_religion,SP,BL
+4169,Pierre-André,Page,50-59,m,rural,married,secondary,catholic,SVP,FR
+4045,Corrado,Pardini,50-59,m,urban,married,secondary,catholic,SP,BE
+4084,Bruno,Pezzatti,60-69,m,periurban,married,tertiary,catholic,FDP-Liberale,ZG
+1109,Gerhard,Pfister,50-59,m,urban,married,tertiary,catholic,CVP,ZG
+4065,Nadja,Pieren,30-39,f,rural,single,tertiary,protestant,SVP,BE
+4109,Valérie,Piller Carrard,40-49,f,rural,married,secondary,catholic,SP,FR
+4066,Rosmarie,Quadranti,60-69,f,urban,widowed,secondary,protestant,BDP,ZH
+4046,Lorenzo,Quadri,40-49,m,big_city,single,tertiary,catholic,Lega,TI
+4072,Fabio,Regazzi,50-59,m,periurban,single,tertiary,catholic,CVP,TI
+3901,Lukas,Reimann,30-39,m,urban,single,tertiary,catholic,SVP,SG
+4091,Mathias,Reynard,30-39,m,urban,single,tertiary,catholic,SP,VS
+4204,Beat,Rieder,50-59,m,rural,married,tertiary,catholic,CVP,VS
+502,Kathy,Riklin,60-69,f,big_city,single,tertiary,catholic,CVP,ZH
+1119,Jean-François,Rime,60-69,m,urban,married,tertiary,catholic,SVP,FR
+4052,Markus,Ritter,50-59,m,urban,married,tertiary,catholic,CVP,SG
+4232,Nicolas,Rochat Fernandez,30-39,m,periurban,married,tertiary,protestant,SP,VD
+4220,Benjamin,Roduit,50-59,m,periurban,married,tertiary,catholic,CVP,VS
+4120,Marco,Romano,30-39,m,urban,married,tertiary,catholic,CVP,TI
+4100,Albert,Rösti,50-59,m,periurban,married,tertiary,protestant,SVP,BE
+4170,Franz,Ruppen,40-49,m,urban,single,tertiary,catholic,SVP,VS
+4095,Regula,Rytz,50-59,f,big_city,single,tertiary,protestant,GPS,BE
+4172,Werner,Salzmann,50-59,m,periurban,married,tertiary,protestant,SVP,BE
+1129,Silvia,Schenker,60-69,f,big_city,divorced,tertiary,catholic,SP,BS
+4124,Peter,Schilliger,60-69,m,periurban,married,tertiary,catholic,FDP-Liberale,LU
+4078,Martin,Schmid,50-59,m,urban,single,tertiary,protestant,FDP-Liberale,GR
+4060,Daniela,Schneeberger,50-59,f,periurban,divorced,secondary,protestant,FDP-Liberale,BL
+4040,Elisabeth,Schneider-Schneiter,50-59,f,periurban,married,tertiary,protestant,CVP,BL
+1159,Pirmin,Schwander,50-59,m,urban,married,tertiary,catholic,SVP,SZ
+354,Silva,Semadeni,60-69,f,urban,married,tertiary,protestant,SP,GR
+3920,Anne,Seydoux-Christe,60-69,f,urban,married,tertiary,catholic,CVP,JU
+4173,Sandra,Sollberger,40-49,f,periurban,married,secondary,undenominational,SVP,BL
+514,Jürg,Stahl,50-59,m,urban,married,tertiary,protestant,SVP,ZH
+1267,Hans,Stöckli,60-69,m,big_city,married,tertiary,protestant,SP,BE
+4036,Marianne,Streiff-Feller,60-69,f,urban,married,tertiary,protestant,EVP,BE
+3907,Adèle,Thorens Goumaz,40-49,f,big_city,married,tertiary,protestant,GPS,VD
+4221,Michael,Töngi,50-59,m,urban,single,tertiary,protestant,GPS,LU
+4054,Albert,Vitali,60-69,m,urban,married,secondary,catholic,FDP-Liberale,LU
+4085,Karl,Vogler,60-69,m,rural,married,tertiary,catholic,csp-ow,OW
+4205,Beat,Vonlanthen,60-69,m,rural,married,tertiary,catholic,CVP,FR
+4142,Beat,Walti,50-59,m,urban,married,tertiary,protestant,FDP-Liberale,ZH
+3912,Christian,Wasserfallen,30-39,m,big_city,single,tertiary,protestant,FDP-Liberale,BE
+4224,Flavia,Wasserfallen,40-49,f,big_city,married,tertiary,undenominational,SP,BE
+4194,Laurent,Wehrli,50-59,m,urban,married,tertiary,protestant,FDP-Liberale,VD
+3931,Thomas,Weibel,60-69,m,urban,married,tertiary,protestant,glp,ZH
+4057,Cédric,Wermuth,30-39,m,urban,married,tertiary,undenominational,SP,AG
+4152,Hans,Wicki,50-59,m,periurban,married,tertiary,catholic,FDP-Liberale,NW
+1142,Walter,Wobmann,60-69,m,urban,married,secondary,catholic,SVP,SO
+4226,Adrian,Wüthrich,30-39,m,periurban,married,tertiary,protestant,SP,BE
+4178,Claudio,Zanetti,50-59,m,periurban,married,tertiary,catholic,SVP,ZH
+801,Fabio,Abate,50-59,m,urban,married,tertiary,unknown,FDP-Liberale,TI
+4049,Matthias,Aebischer,50-59,m,big_city,divorced,secondary,unknown,SP,BE
+4053,Thomas,Aeschi,40-49,m,urban,single,tertiary,catholic,SVP,ZG
+4184,Sibel,Arslan,30-39,f,big_city,unknown,tertiary,muslim,BastA,BS
+4058,Jacqueline,Badran,50-59,f,big_city,married,tertiary,protestant,SP,ZH
+4138,Guillaume,Barazzone,30-39,m,big_city,unknown,tertiary,unknown,CVP,GE
+4203,Angelo,Barrile,40-49,m,big_city,partnership,tertiary,catholic,SP,ZH
+4187,Philippe,Bauer,50-59,m,periurban,married,tertiary,protestant,FDP-Liberale,NE
+4088,Isidor,Baumann,60-69,m,rural,married,unknown,unknown,CVP,UR
+1138,Martin,Bäumle,50-59,m,urban,married,tertiary,unknown,glp,ZH
+4182,Claude,Béglé,60-69,m,urban,married,tertiary,protestant,CVP,VD
+4213,Samuel,Bendahan,30-39,m,big_city,married,tertiary,unknown,SP,VD
+4102,Kathrin,Bertschy,40-49,f,big_city,single,tertiary,undenominational,glp,BE
+4188,Frédéric,Borloz,50-59,m,urban,married,secondary,unknown,FDP-Liberale,VD
+724,Daniel,Brélaz,60-69,m,big_city,married,tertiary,unknown,GPS,VD
+4025,Roland Rino,Büchel,50-59,m,periurban,single,tertiary,catholic,SVP,SG
+3830,Marina,Carobbio Guscetti,50-59,f,periurban,married,tertiary,unknown,SP,TI
+4075,Andrea,Caroni,30-39,m,urban,single,tertiary,undenominational,FDP-Liberale,AR
+4108,Isabelle,Chevalley,40-49,f,rural,single,tertiary,undenominational,glp,VD
+4135,Raymond,Clottu,50-59,m,rural,divorced,unknown,protestant,-,NE
+4026,Raphaël,Comte,30-39,m,urban,single,tertiary,unknown,FDP-Liberale,NE
+3914,Robert,Cramer,60-69,m,big_city,unknown,tertiary,unknown,GPS,GE
+4219,Brigitte,Crottaz,60-69,f,urban,single,tertiary,undenominational,SP,VD
+4201,Denis,de la Reussille,50-59,m,urban,married,secondary,unknown,PdA,NE
+4229,Mike,Egger,below 29,m,urban,single,tertiary,unknown,SVP,SG
+4110,Hans,Egloff,50-59,m,rural,married,tertiary,protestant,SVP,ZH
+3876,Yvette,Estermann,50-59,f,urban,married,tertiary,protestant,SVP,LU
+4195,Laurence,Fehlmann Rielle,60-69,f,big_city,married,tertiary,unknown,SP,GE
+4077,Olivier,Feller,40-49,m,periurban,single,tertiary,protestant,FDP-Liberale,VD
+4069,Yvonne,Feri,50-59,f,urban,unknown,secondary,protestant,SP,AG
+466,Anita,Fetz,60-69,f,big_city,married,tertiary,unknown,SP,BS
+3877,Doris,Fiala,60-69,f,big_city,married,tertiary,catholic,FDP-Liberale,ZH
+3878,Sylvia,Flückiger-Bäni,60-69,f,periurban,married,unknown,catholic,SVP,AG
+3915,Jean-René,Fournier,60-69,m,urban,married,tertiary,unknown,CVP,VS
+3879,Olivier,Français,60-69,m,rural,married,tertiary,catholic,FDP-Liberale,VD
+4227,Daniel,Frei,40-49,m,urban,single,tertiary,protestant,SP,ZH
+4131,Claudia,Friedl,50-59,f,big_city,single,tertiary,catholic,SP,SG
+4191,Benoît,Genecand,50-59,m,big_city,married,tertiary,unknown,FDP-Liberale,GE
+91,Ulrich,Giezendanner,60-69,m,rural,married,unknown,protestant,SVP,AG
+3882,Bastien,Girod,30-39,m,big_city,married,tertiary,unknown,GPS,ZH
+1337,Ida,Glanzmann-Hunkeler,60-69,f,periurban,married,tertiary,catholic,CVP,LU
+4161,Andreas,Glarner,50-59,m,periurban,divorced,tertiary,unknown,SVP,AG
+4093,Balthasar,Glättli,40-49,m,big_city,married,secondary,undenominational,GPS,ZH
+4096,Alois,Gmür,60-69,m,urban,married,tertiary,catholic,CVP,SZ
+4116,Petra,Gössi,40-49,f,periurban,single,tertiary,catholic,FDP-Liberale,SZ
+3921,Konrad,Graber,60-69,m,urban,married,tertiary,catholic,CVP,LU
+806,Maya,Graf,50-59,f,periurban,married,tertiary,protestant,GPS,BL
+3885,Jean-Pierre,Grin,above 70,m,rural,married,tertiary,unknown,SVP,VD
+4162,Franz,Grüter,50-59,m,rural,married,tertiary,unknown,SVP,LU
+1106,Brigitte,Häberli-Koller,60-69,f,periurban,married,secondary,catholic,CVP,TG
+3916,Claude,Hêche,60-69,m,urban,widowed,secondary,catholic,SP,JU
+3887,Alfred,Heer,50-59,m,big_city,divorced,tertiary,unknown,SVP,ZH
+4139,Thomas,Hefti,50-59,m,rural,married,tertiary,protestant,FDP-Liberale,GL
+4163,Erich,Hess,30-39,m,big_city,single,secondary,unknown,SVP,BE
+4145,Werner,Hösli,50-59,m,rural,married,tertiary,protestant,SVP,GL
+4032,Beat,Jans,50-59,m,big_city,married,tertiary,unknown,SP,BS
+3891,Daniel,Jositsch,50-59,m,urban,divorced,tertiary,unknown,SP,ZH
+4098,Peter,Keller,40-49,m,periurban,unknown,tertiary,catholic,SVP,NW
+4166,Roger,Köppel,50-59,m,urban,married,tertiary,unknown,SVP,ZH
+540,Filippo,Lombardi,60-69,m,urban,unknown,tertiary,unknown,CVP,TI
+3895,Christian,Lüscher,50-59,m,urban,married,tertiary,unknown,FDP-Liberale,GE
+3923,Ada,Marra,40-49,f,big_city,unknown,tertiary,catholic,SP,VD
+4197,Min Li,Marti,40-49,f,big_city,married,tertiary,unknown,SP,ZH
+4228,Samira,Marti,below 29,f,urban,single,tertiary,protestant,SP,BL
+4167,Magdalena,Martullo-Blocher,50-59,f,urban,married,tertiary,other_religion,SVP,GR
+4130,Nadine,Masshardt,30-39,f,big_city,single,tertiary,protestant,SP,BE
+4144,Thomas,Matter,50-59,m,urban,married,secondary,unknown,SVP,ZH
+4186,Lisa,Mazzone,30-39,f,big_city,unknown,tertiary,unknown,GPS,GE
+4140,Giovanni,Merlini,50-59,m,urban,married,tertiary,unknown,FDP-Liberale,TI
+4223,Fabian,Molina,below 29,m,big_city,single,tertiary,unknown,SP,ZH
+1346,Isabelle,Moret,40-49,f,rural,single,tertiary,catholic,FDP-Liberale,VD
+4106,Martin,Naef,40-49,m,big_city,unknown,tertiary,protestant,SP,ZH
+4168,Jacques,Nicolet,50-59,m,rural,unknown,secondary,protestant,SVP,VD
+3898,Yves,Nidegger,60-69,m,big_city,unknown,tertiary,unknown,SVP,GE
+1153,Ruedi,Noser,50-59,m,big_city,married,tertiary,protestant,FDP-Liberale,ZH
+4222,Nicolo,Paganini,50-59,m,rural,married,tertiary,unknown,CVP,SG
+4073,Roberta,Pantani,50-59,f,urban,married,tertiary,unknown,Lega,TI
+4141,Hans-Peter,Portmann,50-59,m,urban,partnership,tertiary,unknown,FDP-Liberale,ZH
+172,Paul,Rechsteiner,60-69,m,big_city,married,tertiary,unknown,SP,SG
+173,Maximilian,Reimann,above 70,m,periurban,divorced,tertiary,catholic,SVP,AG
+3902,Natalie,Rickli,40-49,f,big_city,unknown,secondary,catholic,SVP,ZH
+4125,Gregor,Rutz,40-49,m,urban,married,tertiary,catholic,SVP,ZH
+4202,Regine,Sauter,50-59,f,big_city,divorced,tertiary,protestant,FDP-Liberale,ZH
+1148,Géraldine,Savary,50-59,f,big_city,married,tertiary,catholic,SP,VD
+4123,Ursula,Schneider Schüttel,50-59,f,urban,married,tertiary,protestant,SP,FR
+4199,Priska,Seiler Graf,50-59,f,urban,married,tertiary,protestant,SP,ZH
+4146,Heinz,Siegenthaler,60-69,m,rural,unknown,secondary,protestant,BDP,BE
+1120,Carlo,Sommaruga,60-69,m,big_city,unknown,tertiary,unknown,SP,GE
+214,Luzi,Stamm,60-69,m,urban,married,tertiary,unknown,SVP,AG
+4174,Barbara,Steinemann,40-49,f,urban,unknown,tertiary,unknown,SVP,ZH
+4113,Manuel,Tornare,60-69,m,urban,single,tertiary,catholic,SP,GE
+4128,Aline,Trede,30-39,f,big_city,married,tertiary,unknown,GPS,BE
+4175,Mauro,Tuena,40-49,m,big_city,unknown,unknown,unknown,SVP,ZH
+4176,Hans-Ueli,Vogt,40-49,m,big_city,single,tertiary,unknown,SVP,ZH
+3910,Erich,von Siebenthal,60-69,m,periurban,married,secondary,protestant,SVP,BE
+4177,Bruno,Walliser,50-59,m,urban,unknown,tertiary,catholic,SVP,ZH
+525,Roberto,Zanetti,60-69,m,urban,single,unknown,undenominational,SP,SO
+4179,David,Zuberbühler,40-49,m,urban,married,secondary,other_religion,SVP,AR
+999999999,Benedikt,Würth,50-59,m,urban,married,tertiary,catholic,CVP,SG
