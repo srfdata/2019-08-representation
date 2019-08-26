@@ -360,6 +360,68 @@ councillors <- councillors_no_missing %>%
 
 ```
 
+#### Funktionen für Barcharts
+
+```{r functions to create charts}
+
+create_barchart <- function(data, title) {
+  ggplot(
+    data = data %>%
+      mutate(missing = is - should),
+    aes(
+      x = group,
+      y = missing,
+      label = missing,
+      fill = category
+    )
+  ) +
+    geom_bar(stat = "identity") +
+    geom_text(
+      position = position_stack(vjust = 0.5),
+      color = "white",
+      size = 3
+    ) +
+    scale_fill_brewer(palette = "Set1") +
+    theme_minimal() +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+    labs(
+      title = title,
+      y = "Abweichung",
+      x = ""
+    )
+}
+
+create_barchart_with_factors <- function(data, title, factors) {
+  ggplot(
+    data = data %>%
+      mutate(missing = is - should) %>%
+      mutate(group = factor(group, levels = factors)),
+    aes(
+      x = group,
+      y = missing,
+      label = missing,
+      fill = category
+    )
+  ) +
+    geom_bar(stat = "identity") +
+    geom_text(
+      position = position_stack(vjust = 0.5),
+      color = "white",
+      size = 3
+    ) +
+    scale_fill_brewer(palette = "Set1") +
+    theme_minimal() +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+    labs(
+      title = title,
+      y = "Abweichung",
+      x = ""
+    )
+}
+
+```
+
+
 #### Alter
 
 ```{r age groups}
@@ -443,6 +505,19 @@ age_groups_representation <- general_population_age %>%
   ) %>%
   mutate(category = "age_group") %>%
   select(category, group, is, should)
+
+create_barchart_with_factors(
+  age_groups_representation,
+  "Repräsentation Alter",
+  c(
+    "below 29",
+    "30-39",
+    "40-49",
+    "50-59",
+    "60-69",
+    "above 70"
+  )
+)
   
 ```
 
@@ -481,6 +556,7 @@ gender_representation <- general_population_gender %>%
   mutate(category = "gender") %>%
   select(category, group, is, should)
 
+create_barchart(gender_representation, "Repräsentation Geschlecht")
 
 ```
 
@@ -611,6 +687,8 @@ urban_rural_representation <- general_population_urban_rural %>%
   mutate(category = "urban_rural") %>%
   select(category, group, is, should)
 
+create_barchart(urban_rural_representation, "Repräsentation Stadt Land")
+
 ```
 
 #### Bildung
@@ -733,6 +811,8 @@ education_representation <- education_general_population %>%
   select(category, group, is, should) %>%
   mutate(is = ifelse(is.na(is), 0, is))
 
+create_barchart(education_representation, "Repräsentation Bildung")
+
 ```
 
 
@@ -829,6 +909,8 @@ marital_status_representation <- general_population_marital_status %>%
     marital_status_export_renaming
   ))
 
+create_barchart(marital_status_representation, "Repräsentation Zivilstand")
+
 ```
 
 #### Religion
@@ -914,94 +996,7 @@ religion_representation <- general_population_religion %>%
   # set na values of is to 0
   mutate(is = ifelse(is.na(is), 0, is))
 
-```
-
-
-### Charts
-
-```{r create charts}
-
-save_barchart <- function(data, title) {
-  ggplot(
-    data = data %>%
-      mutate(missing = is - should),
-    aes(
-      x = group,
-      y = missing,
-      label = missing,
-      fill = category
-    )
-  ) +
-    geom_bar(stat = "identity") +
-    geom_text(
-      position = position_stack(vjust = 0.5),
-      color = "white",
-      size = 3
-    ) +
-    scale_fill_brewer(palette = "Set1") +
-    theme_minimal() +
-    theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-    labs(
-      title = title,
-      y = "Abweichung",
-      x = ""
-    )
-
-  ggsave(glue::glue("output/ignore/{title}.png"))
-}
-
-save_barchart_with_factors <- function(data, title, factors) {
-  ggplot(
-    data = data %>%
-      mutate(missing = is - should) %>%
-      mutate(group = factor(group, levels = factors)),
-    aes(
-      x = group,
-      y = missing,
-      label = missing,
-      fill = category
-    )
-  ) +
-    geom_bar(stat = "identity") +
-    geom_text(
-      position = position_stack(vjust = 0.5),
-      color = "white",
-      size = 3
-    ) +
-    scale_fill_brewer(palette = "Set1") +
-    theme_minimal() +
-    theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-    labs(
-      title = title,
-      y = "Abweichung",
-      x = ""
-    )
-
-  ggsave(glue::glue("output/ignore/{title}.png"))
-}
-
-save_barchart(gender_representation, "Repräsentation Geschlecht")
-
-save_barchart(education_representation, "Repräsentation Bildung")
-
-save_barchart(urban_rural_representation, "Repräsentation Stadt Land")
-
-save_barchart(marital_status_representation, "Repräsentation Zivilstand")
-
-save_barchart(religion_representation, "Repräsentation Religion")
-
-save_barchart_with_factors(
-  age_groups_representation,
-  "Repräsentation Alter",
-  c(
-    "below 29",
-    "30-39",
-    "40-49",
-    "50-59",
-    "60-69",
-    "above 70"
-  )
-)
+create_barchart(religion_representation, "Repräsentation Religion")
 
 ```
  
