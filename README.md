@@ -18,11 +18,9 @@ Die Vorprozessierung und Analyse wurde im Statistikprogramm R vorgenommen. Das z
 
 SRF Data verwendet das [rddj-template](https://github.com/grssnbchr/rddj-template) von Timo Grossenbacher als Grundlage für seine R-Scripts. Entstehen bei der Ausführung dieses Scripts Probleme, kann es helfen, die Anleitung von [rddj-template](https://github.com/grssnbchr/rddj-template) zu studieren.
 
-Debug-Informationen: *This report was generated on `r Sys.time()`. R version: `r paste0(version$major, ".", version$minor)` on `r version$platform`. For this report, CRAN packages as of `r package_date` were used.*
-
 ### GitHub
 
-Der Code für die vorliegende Datenprozessierung ist auf [https://github.com/srfdata/2019-04-health](https://github.com/srfdata/2019-08-representation) zur freien Verwendung verfügbar. 
+Der Code für die vorliegende Datenprozessierung ist auf [https://github.com/srfdata/2019-08-representation](https://github.com/srfdata/2019-08-representation) zur freien Verwendung verfügbar.
 
 ### Lizenz
 
