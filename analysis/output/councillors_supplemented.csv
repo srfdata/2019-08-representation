@@ -49,7 +49,7 @@ id,first_name,last_name,age_group,gender,urban_rural,marital_status,education,re
 4181,Andrea,Gmür-Schönenberger,50-59,f,big_city,married,tertiary,catholic,CVP,LU
 4137,Roger,Golay,50-59,m,urban,married,tertiary,protestant,MCG,GE
 1295,Edith,Graf-Litscher,50-59,f,urban,married,secondary,protestant,SP,TG
-4083,Jürg,Grossen,40-49,m,periurban,married,secondary,protestant,glp,BE
+4083,Jürg,Grossen,50-59,m,periurban,married,secondary,protestant,glp,BE
 3886,Hans,Grunder,60-69,m,rural,married,tertiary,protestant,BDP,BE
 4087,Jean-Paul,Gschwind,60-69,m,rural,married,tertiary,catholic,CVP,JU
 4214,Niklaus-Samuel,Gugger,40-49,m,big_city,married,tertiary,protestant,EVP,ZH

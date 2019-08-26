@@ -1,7 +1,7 @@
 category,group,is,should
 age_group,30-39,28,41
-age_group,40-49,45,41
-age_group,50-59,88,43
+age_group,40-49,44,41
+age_group,50-59,89,43
 age_group,60-69,77,31
 age_group,above 70,5,38
 age_group,below 29,3,51
