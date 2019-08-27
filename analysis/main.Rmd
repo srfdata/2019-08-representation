@@ -22,7 +22,7 @@ subtitle: Vorprozessierung und Analyse
 ```{r, echo=FALSE}
 # CONFIG
 user_name <- "srfdata" # github user name
-project_name <- "rddj-template" # adapt to new repo name
+project_name <- "2019-08-representation" # adapt to new repo name
 package_date <- "2018-09-01" # date of the CRAN snapshot that
 # the checkpoint package uses
 R_version <- "3.5.3" # R-Version to use
@@ -34,7 +34,7 @@ if (R_version != paste0(version$major, ".", version$minor)){
 
 ## Vorbemerkungen
 
-Dieses Dokument beschreibt die Vorprozessierung und explorative Analyse des Datensatzes, der Grundlage des auf srf.ch veröffentlichten Artikels [Wie gesund ist die Schweiz](http://www.srf.ch/data) ist.
+Dieses Dokument beschreibt die Vorprozessierung und explorative Analyse des Datensatzes, der Grundlage des auf srf.ch veröffentlichten Artikels [Wie das Parlament die Wähler abbildet – und wie nicht](https://www.srf.ch/news/schweiz/wahlen-2019/wahlen-2019-wie-das-parlament-die-waehler-abbildet-und-wie-nicht) ist.
 
 SRF Data legt Wert darauf, dass die Datenvorprozessierung und -Analyse nachvollzogen und überprüft werden kann. SRF Data glaubt an das Prinzip offener Daten, aber auch offener und nachvollziehbarer Methoden. Zum anderen soll es Dritten ermöglicht werden, auf dieser Vorarbeit aufzubauen und damit weitere Auswertungen oder Applikationen zu generieren.
 
